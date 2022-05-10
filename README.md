@@ -1,6 +1,6 @@
 # Kickstarter Campaign Overview
-## Relational Comparisons of Goals and Launch Date Outcomes
-### The purpose of this analysis is to understand how outcomes, goals, and time correlate
+## Relational Comparisons of Launching Marketing Campaigns by Date & Outcomes
+### The purpose of this analysas is to understand how outcomes, goals, and time correlate
 ## Analysis & Challenges
 We want to take a deep look at succesful campaigns and outcome variance by goals.
 
